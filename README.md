@@ -70,7 +70,7 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
->
+> Lance Stroll’s strategy differed most from winner Max Verstappen’s. His row shows red Soft tyres until about lap 9, grey Hard tyres until about lap 30, and yellow Medium tyres afterward, indicating two pit stops. Verstappen’s row contains only two stints, Medium followed by Hard, with a single stop around lap 21.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 

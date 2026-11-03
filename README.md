@@ -74,11 +74,11 @@ git push
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+> For the 2025 British Grand Prix, the race trace shows how drivers’ cumulative gaps to Lando Norris grew or shrank throughout the race. Piastri stayed close for much of the race but briefly fell about 28 seconds behind around lap 43 before recovering most of that gap. A plain lap-time chart would make these overall advantages and deficits harder to see because it shows each lap separately.
 
 **Bonus** (optional): which race did you add, and why?
 
->
+> I added the 2024 United States Grand Prix, Monaco Grand Prix, and Italian Grand Prix because I am a Ferrari fan and Charles Leclerc won all three races for Ferrari.
 
 ---
 

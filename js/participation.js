@@ -96,7 +96,7 @@ onRaceChange(race => {
         .range([margin.top, height - margin.bottom])
         .padding(0.2);
     x = d3.scaleLinear()
-        .domain([1, race.maxLap])
+        .domain([0, race.maxLap])
         .range([margin.left, width - margin.right]);
 
     const acronym = new Map(race.drivers.map(d => [d.driver_number, d.name_acronym]));
